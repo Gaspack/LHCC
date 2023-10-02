@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-# baseURL = "https://epicgui.dev/LHCC/"
-baseURL = "https://localhost/LHCC"
+baseURL = "https://epicgui.dev/LHCC/"
+# baseURL = "https://localhost/LHCC"
 # Title of your website (required).
 title = "New LHCC site"
 # Your theme name
